@@ -58,7 +58,7 @@ A Python-based system for managing car inventory and recommending cars based on 
 **How to Get Started**
 
 1. **Clone the Repository**:
-   git clone https://github.com/mhs-mehedi/Python-Project.git
+   git clone https://github.com/mhs-ice/Python-Project.git
    
 2. **Navigate to a Project Folder**:
    cd python-projects/Restaurant-Management  # Example for Restaurant Management
