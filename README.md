@@ -92,6 +92,6 @@ A Python-based system for managing car inventory and recommending cars based on 
 **Contact**
   If you have any questions or suggestions, feel free to reach out:
     **Email: mhs547061@gmail.com.com**
-    **GitHub: mhs-mehedi**
+    **GitHub: mhs-ice**
 
 Thank you for visiting my repository! I hope you find these projects useful and inspiring. Happy coding! 
